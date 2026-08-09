@@ -1,0 +1,5 @@
+redocking ibuprofen into COX-1 using the 1EQG crystal structure
+
+TOOLS: RDKit, Meeko, AutoDock Vina, PyMOL
+HOW TO RUN: 
+RESULT: top pose scored -7.1 kcal/mol | 
